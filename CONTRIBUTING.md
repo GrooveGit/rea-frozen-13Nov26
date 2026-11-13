@@ -170,23 +170,6 @@ every workflow built on it. General-purpose interfaces are not classified as
 dedicated bypass workflows solely because caller-provided code could be misused;
 their execution and mutation authority must still be reviewed.
 
-REA does not integrate or officially distribute:
-
-- Purpose-built workflows to defeat commercial packing or code-virtualization
-  protections and automatically recover protected code.
-- Anti-debugging or anti-instrumentation evasion, or DRM, license, anti-cheat, or
-  access-control bypass workflows.
-- Exploit or attack-payload automation, credential theft, covert persistence,
-  unauthorized access, or bulk attack workflows.
-
-These boundaries apply to first-party providers, adapters, plugins, bundled
-scripts, defaults, examples, and documentation. Moving a capability into an
-optional dependency or plugin does not exempt it. Review what the integration
-exposes, including upstream defaults and raw-command or script execution paths.
-Ordinary extraction and general static deobfuscation are not excluded merely
-because the input is packed or obfuscated; assess added bypass or execution
-behavior separately.
-
 This is a product and maintenance boundary, not a judgment about a contributor's
 intentions or a declaration that all excluded research is unlawful. Contributors
 must have the rights and authorization needed for their work. A local-only design

@@ -457,18 +457,6 @@ testează versiuni și contribuie cu remedieri.
   </picture>
 </a>
 
-## Precizări privind utilizarea
-
-Consultă [DISCLAIMER.md](../../DISCLAIMER.md) pentru îndrumări privind utilizarea responsabilă.
-
-Poziția proiectului față de utilizarea ilegală sau neautorizată se aplică tuturor
-versiunilor REA, canalelor de distribuție și platformelor; fiecare copie își
-păstrează licențele aplicabile.
-
-REA este destinat cercetării legale, educației, interoperabilității, conservării
-software-ului și analizei programelor pe care le deții sau pe care ai autorizarea
-să le examinezi.
-
 ## Contribuții
 
 Ne-ar bucura să contribui la REA! [Deschide un issue](https://github.com/morluto/rea/issues)
@@ -489,12 +477,3 @@ Codul scris în cadrul REA este licențiat sub MIT. Materialele terților își 
 propriile licențe și mențiuni privind drepturile de autor; consultă
 [mențiunile privind terții](../../THIRD_PARTY_NOTICES.md) pentru inventarul
 dependențelor, textele licențelor păstrate și condițiile aplicabile uneltelor externe.
-
-**Trebuie să obții legal uneltele comerciale și să ai dreptul să le folosești**,
-inclusiv decompilatoarele IDA Pro / Hex-Rays, Hopper și JEB, în condițiile
-licențelor aplicabile. REA nu îți acordă nicio licență, cheie sau drept de activare
-pentru aceste unelte. Versiunile de evaluare și demonstrative rămân supuse
-condițiilor furnizorilor, inclusiv restricțiilor privind utilizatorii,
-funcționalitățile, automatizarea și partajarea rezultatelor. Nu sunt autorizate
-copiile piratate, cheile furate, partajarea neautorizată a cheilor sau ocolirea
-restricțiilor de licențiere. Aceste îndrumări nu modifică licența MIT sau licențele terților.

@@ -371,16 +371,6 @@ REA'yı kullanan, hata bildiren, özellik talep eden, derlemeleri test eden ve d
   </picture>
 </a>
 
-## Sorumluluk reddi
-
-Sorumlu kullanım yönergeleri için [DISCLAIMER.md](../../DISCLAIMER.md) dosyasına bakın.
-
-REA; yasal araştırma, eğitim, birlikte çalışabilirlik, yazılımın korunması ve sahibi olduğunuz ya da inceleme yetkiniz bulunan yazılımların analizi için tasarlanmıştır.
-
-Projenin yasa dışı veya yetkisiz kullanıma ilişkin tutumu tüm REA sürümleri,
-dağıtım kanalları ve platformlar için geçerlidir; her kopya geçerli lisanslarını
-korur.
-
 ## Katkıda bulunma
 
 REA'ya katkınızı bekliyoruz! Hata bildirmek veya özellik önermek için bir [issue açın](https://github.com/morluto/rea/issues); kodu veya belgeleri geliştirmek için bir [pull request gönderin](https://github.com/morluto/rea/pulls).
@@ -395,12 +385,3 @@ REA tarafından yazılan kod MIT lisansı altında lisanslanır. Üçüncü tara
 materyaller kendi lisanslarını ve telif hakkı bildirimlerini korur; bağımlılık
 envanteri, korunan lisans metinleri ve harici araç koşulları için [Üçüncü taraf
 bildirimleri](../../THIRD_PARTY_NOTICES.md) dosyasına bakın.
-
-**IDA Pro / Hex-Rays decompiler'ları, Hopper ve JEB dahil olmak üzere ticari
-araçları yasal olarak edinmeli ve ilgili lisanslar kapsamında kullanma
-yetkiniz olmalıdır.** REA hiçbir araç lisansı, anahtarı veya etkinleştirme hakkı
-vermez. Deneme sürümleri ve demolar; kullanıcı, özellik, otomasyon ve çıktı
-paylaşımı kısıtlamaları dahil olmak üzere satıcı koşullarına tabidir. Kırılmış
-kopyalar, çalınmış anahtarlar, yetkisiz anahtar paylaşımı ve lisans
-kısıtlamalarını aşma yetkili kullanım kapsamında değildir. Bu yönlendirme MIT
-veya üçüncü taraf lisanslarını değiştirmez.

@@ -460,18 +460,6 @@ fixes contribute karne wale sab logon ka shukriya.
   </picture>
 </a>
 
-## Zimmedarana istemal
-
-Responsible-use guidance ke liye [DISCLAIMER.md](../../DISCLAIMER.md) dekhein.
-
-Ghair qanooni ya ghair ijazati istemal ke bare mein project ki position REA ke
-tamam versions, distribution channels aur platforms par lagu hoti hai; har copy
-par uske applicable licenses barqarar rehte hain.
-
-REA qanooni research, taleem, interoperability, software preservation aur aise
-software ke analysis ke liye hai jo aapka apna ho ya jise examine karne ki aapko
-ijazat ho.
-
 ## Hissa dalein
 
 REA mein aapki madad ka khairmaqdam hai! Bug report karne ya feature suggest
@@ -490,12 +478,3 @@ REA ka apna likha hua code MIT ke tehat licensed hai. Third-party material
 ke apne licenses aur copyright notices barqarar rehte hain. Dependency
 inventory, preserved license texts aur external tools ki terms ke liye
 [Third-party notices](../../THIRD_PARTY_NOTICES.md) dekhein.
-
-IDA Pro / Hex-Rays decompilers, Hopper aur JEB samet **commercial tools qanooni
-tareeqe se hasil karna aur unke applicable licenses ke mutabiq use karne ki
-ijazat rakhna zaroori hai**. REA koi tool license, key ya activation ka haq
-nahi deta. Trials aur demos vendor ki terms ke tehat rehte hain, jin mein user,
-feature, automation aur output sharing ki pabandiyan bhi shamil hain. Cracked
-copies, chori ki hui keys, ghair ijazati key sharing aur license restrictions
-bypass karne ki ijazat nahi. Yeh guidance MIT ya third-party licenses ko
-tabdeel nahi karti.
